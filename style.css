@@ -408,7 +408,7 @@ main {
 /* Mobile Menu */
 .mobile-menu {
     position: fixed;
-    top: 72px;
+    top: 70px;
     right: 0;
     background-color: var(--color-primary);
     width: 75%;
