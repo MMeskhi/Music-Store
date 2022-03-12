@@ -1,13 +1,13 @@
-## Overview
+Overview
 Music-Store
 
-### Screenshot
-![](./screenshot.jpg)
+Links
+- https://mmeskhi.github.io/Music-Store/
 
-### Built with
+Built with
 - HTML5
 - CSS
 - JavaScript
 
-### Links
-- https://mmeskhi.github.io/Music-Store/
+Screenshot
+![](./screenshot.jpg)
