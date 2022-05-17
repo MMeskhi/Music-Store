@@ -3,7 +3,7 @@ Music-Store
 
 ### Links
 
-- https://mmeskhi.github.io/Music-Store/
+- https://mmeskhi.github.io/VinylStore
 
 ### Built with
 
