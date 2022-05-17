@@ -10,7 +10,3 @@ Music-Store
 - HTML5
 - CSS
 - JavaScript
-
-### Screenshot
-
-![](./screenshot.jpg)
