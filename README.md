@@ -1,5 +1,5 @@
-## Overview
-Music-Store
+## Name
+Vinyl Store
 
 ### Links
 
