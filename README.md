@@ -1,6 +1,6 @@
 ### Name
 
-**Vinyl Store**
+Vinyl Store
 
 ### Links
 
