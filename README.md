@@ -1,19 +1,19 @@
-### Name
+#### Name
 
 - Vinyl Store
 
-### Description
+#### Description
 
 - Online vinyl store
 - Fully responsive
 - Website inspiration from Starbucks website
 
-### Links
-
-- https://mmeskhi.github.io/VinylStore
-
-### Built with
+#### Built with
 
 - HTML5
 - CSS
 - JavaScript
+
+#### Links
+
+- https://mmeskhi.github.io/VinylStore
